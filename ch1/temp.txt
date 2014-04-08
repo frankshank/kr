@@ -1,0 +1,10 @@
+the quick brown fox
+gandered about the place
+and then went home
+or summat
+and the counted evens (and zero)
+0 2 4 6 8 
+0 2 4 6 8 
+0 2 4 6 8 
+0 2 4 6 8 
+3 3 3 3 3
